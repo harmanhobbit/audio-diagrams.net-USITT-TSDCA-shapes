@@ -1,2 +1,2 @@
 # audio-diagrams.net-USITT-TSDCA-shapes
-Audio shapes for diagrams.net based on the USITT/TSDCA sound documentation recommended practice
+Audio shapes for diagrams.net based on the USITT/TSDCA sound documentation recommended practice document dated April 2022.
